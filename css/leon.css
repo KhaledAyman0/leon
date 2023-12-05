@@ -364,7 +364,7 @@ body {
 
 .About .About-conntent .image {
     position: relative;
-    width: 250px;
+    width: 230px;
     height: 375px;
 }
 
@@ -379,7 +379,7 @@ body {
     position: absolute;
     background-color: #ebeced;
     width: 100px;
-    height: calc(100% + 80px);
+    height: calc(88% + 80px);
     top: -40px;
     left: -20px;
     z-index: -1;
